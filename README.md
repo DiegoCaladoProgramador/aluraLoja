@@ -1,0 +1,1 @@
+Diretório criado para o curso Persistência com JPA: Hibernate do alura
