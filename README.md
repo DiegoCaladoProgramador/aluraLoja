@@ -1,1 +1,2 @@
-Diretório criado para o curso Persistência com JPA: Hibernate do alura
+Diretório criado para os cursos Persistência com JPA: Hibernate
+e Java e JPA? consultas avançadas, performance e modelos complexos do alura
